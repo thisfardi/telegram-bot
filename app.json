@@ -11,7 +11,7 @@
     "success_url": "/",
     "env": {
         "API_TOKEN": {
-            "description": "Telegram Bot API Token,Get it from @BotFather"
+            "description": "Telegram Bot API Token,Get it from @BotFather",
         },
     },
     "formation": {
